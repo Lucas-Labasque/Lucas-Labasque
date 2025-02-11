@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lululbsq" target="blank"><img src="https://img.shields.io/twitter/follow/lululbsq?logo=twitter&style=for-the-badge" alt="lululbsq" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [Annuaire Entreprise Winform](SecretLink)
-
 - 🌱 J'apprends actuellement **Developpement C#**
-
-- 👯 Je collabore sur un projet d'application de gestion de stock [VinoStock](SecretLink)
 
 - 📫 Comment me joindre ? **lbsqlulu@gmail.com**
 
